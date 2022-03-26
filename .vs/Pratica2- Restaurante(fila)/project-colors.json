@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "930ec5bd-5d19-4f44-9f88-010ca6b5c1b8": {
+      "ProjectGuid": "930ec5bd-5d19-4f44-9f88-010ca6b5c1b8",
+      "DisplayName": "Pratica2- Restaurante(fila)",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

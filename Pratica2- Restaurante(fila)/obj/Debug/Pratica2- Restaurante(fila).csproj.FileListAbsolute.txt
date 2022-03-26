@@ -1,0 +1,15 @@
+H:\Visual Studio 2022\Projects\Pratica2- Restaurante(fila)\Pratica2- Restaurante(fila)\bin\Debug\Pratica2- Restaurante(fila).exe.config
+H:\Visual Studio 2022\Projects\Pratica2- Restaurante(fila)\Pratica2- Restaurante(fila)\bin\Debug\Pratica2- Restaurante(fila).exe
+H:\Visual Studio 2022\Projects\Pratica2- Restaurante(fila)\Pratica2- Restaurante(fila)\bin\Debug\Pratica2- Restaurante(fila).pdb
+H:\Visual Studio 2022\Projects\Pratica2- Restaurante(fila)\Pratica2- Restaurante(fila)\obj\Debug\Pratica2- Restaurante(fila).csproj.AssemblyReference.cache
+H:\Visual Studio 2022\Projects\Pratica2- Restaurante(fila)\Pratica2- Restaurante(fila)\obj\Debug\Pratica2- Restaurante(fila).csproj.SuggestedBindingRedirects.cache
+H:\Visual Studio 2022\Projects\Pratica2- Restaurante(fila)\Pratica2- Restaurante(fila)\obj\Debug\Pratica2- Restaurante(fila).csproj.CoreCompileInputs.cache
+H:\Visual Studio 2022\Projects\Pratica2- Restaurante(fila)\Pratica2- Restaurante(fila)\obj\Debug\Pratica2- Restaurante(fila).exe
+H:\Visual Studio 2022\Projects\Pratica2- Restaurante(fila)\Pratica2- Restaurante(fila)\obj\Debug\Pratica2- Restaurante(fila).pdb
+C:\Users\Luis Felipe\Desktop\Pratica2- Restaurante(fila)\bin\Debug\Pratica2- Restaurante(fila).exe.config
+C:\Users\Luis Felipe\Desktop\Pratica2- Restaurante(fila)\bin\Debug\Pratica2- Restaurante(fila).exe
+C:\Users\Luis Felipe\Desktop\Pratica2- Restaurante(fila)\bin\Debug\Pratica2- Restaurante(fila).pdb
+C:\Users\Luis Felipe\Desktop\Pratica2- Restaurante(fila)\obj\Debug\Pratica2- Restaurante(fila).csproj.AssemblyReference.cache
+C:\Users\Luis Felipe\Desktop\Pratica2- Restaurante(fila)\obj\Debug\Pratica2- Restaurante(fila).csproj.CoreCompileInputs.cache
+C:\Users\Luis Felipe\Desktop\Pratica2- Restaurante(fila)\obj\Debug\Pratica2- Restaurante(fila).exe
+C:\Users\Luis Felipe\Desktop\Pratica2- Restaurante(fila)\obj\Debug\Pratica2- Restaurante(fila).pdb
